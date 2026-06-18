@@ -50,7 +50,7 @@ Install:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/dong.git
+git clone https://github.com/RupakBhabak/dong.git
 cd dong
 ```
 
